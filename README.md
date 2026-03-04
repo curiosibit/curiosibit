@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**curiosibit/curiosibit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>👋 Hello there</h1>
 
-Here are some ideas to get you started:
+<h3>Full-Stack Software Engineer based in Greece 🇬🇷</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+Curious about technology and computers from a very young age.
+I started my journey in IT Support and later transitioned into building
+software solutions for businesses.
+</p>
+
+<p>
+Currently deep-diving into Computer Science while exploring how things
+work under the hood with digital electronics and Arduino projects.
+</p>
+
+<h2>🛠 Tools & Technologies</h2>
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,mongodb,nodejs,express,npm,html,css,git,python,c,cpp,arduino,linux" />
+
+</div>
